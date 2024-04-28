@@ -10,8 +10,6 @@ aux= *x; //atribuindo o valor da "variavel" x para aux
 *y = aux; // atribuindo o valor de aux para y
 }//assim senão valor será perdido
 
-//LINK REPLIT
-
 int main(){//fornece os inputs base necessários para o procedimento chamado e printa o resultado de tal.
 
     int a=5,b=2; //declaração das váriaveis
