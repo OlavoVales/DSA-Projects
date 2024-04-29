@@ -1,3 +1,5 @@
+/* https://replit.com/@olavocastro/exercicio4-lista-4 */ 
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>

@@ -1,3 +1,5 @@
+/* https://replit.com/@olavocastro/exercicio2-lista-4 */ 
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -7,7 +9,7 @@ void introducao(){
 
 float soma(float num1, float num2){ //função que recebe os dois valores por parametro e retorna a sua soma
 
-    float soma = num1 + num2;   //REVISAR COM GABRIEL  //REVISAR COM GABRIEL  //REVISAR COM GABRIEL  //REVISAR COM GABRIEL  //REVISAR COM GABRIEL  //REVISAR COM GABRIEL 
+    float soma = num1 + num2;
 
     return soma;
 }
