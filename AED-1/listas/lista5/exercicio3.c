@@ -1,3 +1,5 @@
+/* https://replit.com/@olavocastro/exercicio3-lista-5 */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h> 

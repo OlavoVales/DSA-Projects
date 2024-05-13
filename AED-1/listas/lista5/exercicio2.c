@@ -1,3 +1,5 @@
+/* https://replit.com/@olavocastro/exercicio2-lista-5 */
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -22,7 +24,7 @@ Saida: os valores correspondentes aos indices de vetor armazenasdos em uma varia
 retornando assim a média das notas, além dum bloco condicional responsavel por contabilzar os alunos que tiveram média maior a 6.
 */
 
-void calculaMedia(int tam, int *vetor){
+void calculaMedia(int tam, int vetor[]){
 
     int valores = 0.0;
     float media = 0.0;
@@ -54,7 +56,7 @@ int main(){
     int tam = 10, vetor[10];
 
     preencheNotas(tam, vetor);
-    calculaMedia(tam, &vetor);
+    calculaMedia(tam, vetor);
 
     return 0;
 }
