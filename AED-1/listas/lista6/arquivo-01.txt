@@ -1,0 +1,9 @@
+Gato domestico;Felis silvestris catus;true;7;15;
+Gato-leopardo-asiatico;Felis prionailurus bengalensis;false;7;15;
+Jaguatirica;Leopardus pardalis;false;20;15;
+Leao;Panthera leo;false;190;30;
+Leopardo;Panthera Pardus;false;90;15;
+Lince-iberico;Lynx pardinus;false;27;13;
+Onca-pintada;Panthera onca;false;92;23;
+Puma;Puma concolor;false;72;9;
+Tigre;Panthera tigris;false;290;25;
