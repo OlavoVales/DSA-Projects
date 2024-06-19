@@ -24,8 +24,8 @@ class Funcionario {
 
 class Estadia {
     int codigoEstadia;
-    struct tm dataEntrada; //tem que transformar dps pra time_t(com mktime), pq só da pra usar difftime, se for desse time
-    struct tm dataSaida; //tem que transformar dps pra time_t(com mktime), pq só da pra usar difftime, se for desse time
+    struct tm dataEntrada; //tem que transformar dps pra time_t(com mktime), pq sï¿½ da pra usar difftime, se for desse time
+    struct tm dataSaida; //tem que transformar dps pra time_t(com mktime), pq sï¿½ da pra usar difftime, se for desse time
     int quantidadeDiarias;
     int codigoCliente;
     int numeroQuarto;
@@ -39,7 +39,7 @@ class Quarto {
     string status;
 };
 
-//converter a data em segundos, se a data informada(transformada em numeros), for maior que a data de marcação que a reserva, ok, pode marcar
+//converter a data em segundos, se a data informada(transformada em numeros), for maior que a data de marcaï¿½ï¿½o que a reserva, ok, pode marcar
 
 return 0;
 }
