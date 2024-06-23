@@ -1,4 +1,4 @@
-B) Documente cada uma das funções/procedimentos por meio comentários
+/*B Documente cada uma das funções/procedimentos por meio comentários*/
 
 /*
 Descrição: a função tem por objetivo calcula o cubo de n.
@@ -9,15 +9,18 @@ int cubo(int n) {
 return n*n*n;
 }
 
-C) Veja exemplo de código para leitura de frase (string longa com espaços) e armazenamento em vetor de char.
+/*C -> Veja exemplo de código para leitura de frase (string longa com espaços) e armazenamento em vetor de char.*/
 
+/*
 char frase[60];
 scanf(" %[^\n]", &frase); // opção para leitura sem problema com espaços
 fflush(stdin);
 printf("%s", frase);
+*/
 
-D) Caso necessite, veja um exemplo de uso da Função rand para geração de número aleatórios entre 0 e 99.
+/*D -> Caso necessite, veja um exemplo de uso da Função rand para geração de número aleatórios entre 0 e 99. */
 
+/*
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -31,3 +34,4 @@ int main(void) {
         printf("%i", rand() % 100);
     return 0;
 }
+*/
