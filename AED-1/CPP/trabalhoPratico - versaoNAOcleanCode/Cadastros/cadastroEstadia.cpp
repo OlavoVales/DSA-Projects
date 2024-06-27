@@ -23,7 +23,7 @@ int Estadia::cadastroEstadia(){
     cin.ignore();
 
     if(validacaoQuantidadeHospedesQuartoEstadia(quantidadeHospedes)){
-        cout << "Nao ha nenhum quarto que tenha capacidade para suportar tal numero de hospedes. ";
+        cout << "Nao ha nenhum quarto que tenha capacidade para suportar tal n�mero de hospedes. ";
         return 1;
     }
 

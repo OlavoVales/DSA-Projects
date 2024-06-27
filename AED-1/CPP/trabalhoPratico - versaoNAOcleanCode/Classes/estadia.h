@@ -6,14 +6,9 @@
 #include <fstream>
 #include <sstream>
 #include <set>
-#include <string>
 
 #ifndef ESTADIAH
 #define ESTADIAH
-
-using namespace std;
-
-//definicação dos atributos da classe estadia e seus métodos
 
 class Estadia {
 public:

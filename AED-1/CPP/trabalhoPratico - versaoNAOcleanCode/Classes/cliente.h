@@ -1,15 +1,15 @@
 #include <iostream>
 #include <fstream>
-#include <set>
-#include <sstream>
-#include <string>
+#include <set>//uma coleção de elementos que são armazenados de forma ordenada e não permitem duplicatas.
+#include <sstream>//usada pra fazer com que o getline funciona, ao fazer com que a stream se comporte com um stream, assim podendo se utilizar também das funcionalidades da iostream
+#include <map>
 
 #ifndef CLIENTEH
 #define CLIENTEH
 
 using namespace std;
 
-//definicação dos atributos da classe cliente e seus métodos
+//
 
 class Cliente {
 public:
